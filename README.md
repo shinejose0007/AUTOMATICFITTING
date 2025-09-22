@@ -1,2 +1,2 @@
 # TestDataUniversity
-Automatic Fitting OF Objects
+TestSampleData
